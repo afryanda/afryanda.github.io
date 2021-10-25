@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Afryanda</title>
+    <link>https://afryanda.github.io/</link>
+    <description>Recent content on Afryanda</description>
+    <image>
+      <url>https://afryanda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://afryanda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 25 Oct 2021 10:59:11 +0700</lastBuildDate><atom:link href="https://afryanda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Profil</title>
+      <link>https://afryanda.github.io/profil/</link>
+      <pubDate>Mon, 25 Oct 2021 17:19:16 +0700</pubDate>
+      
+      <guid>https://afryanda.github.io/profil/</guid>
+      <description>Deri Afrianda Seseorang yang suka exploring teknologi.
+Assalamua&amp;rsquo;alaikum.. Saya Deri Afrianda, biasa dipanggil Deri, Der, Ri.. Saat ini saya seorang mahasiswa program studi Informatika di perguruan tinggi Universitas Bengkulu.
+Saya sangat tertarik dengan sistem operasi GNU/Linux dan teknologi terupdate didalamnya.
+Kontak yang bisa dihubungi:
+ Email: afryanda27@gmail.com Whatsapp: 082261140608 Telegram: @afryanda27  </description>
+    </item>
+    
+    <item>
+      <title>Mengapa Perlu Belajar Ngoding?</title>
+      <link>https://afryanda.github.io/artikel/mengapa-perlu-belajar-ngoding/</link>
+      <pubDate>Mon, 25 Oct 2021 10:59:11 +0700</pubDate>
+      
+      <guid>https://afryanda.github.io/artikel/mengapa-perlu-belajar-ngoding/</guid>
+      <description>Photo by Vipul Jha on Unsplash
+Ngoding merupakan aktivitas yang dilakukan seorang programmer dengan menulis baris-baris kode dengan tujuan untuk berkomunikasi dengan sistem(komputer). Dengan demikian, programmer dapat memberi perintah pada komputer untuk melakukan apa yang diinginkan. Tentunya dengan menggunakan &amp;lsquo;bahasa-nya&amp;rsquo; komputer atau dikenal istilah bahasa pemrograman (Programming Language). Ada banyak bahasa pemrograman yang dapat kita gunakan untuk dapat melakukan Ngoding, dan itu akan kita bahas dilain waktu.
+Jadi, mengapa kita perlu belajar ngoding?</description>
+    </item>
+    
+  </channel>
+</rss>
